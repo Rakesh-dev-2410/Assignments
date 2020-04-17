@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="SpringBootAssignment 6,7&amp;8/SpringBootMVC/.mvn/wrapper"/>
+	<classpathentry kind="src" path="SpringBootAssignment 6,7&amp;8/SpringBootMVC/src/main/java"/>
+	<classpathentry kind="src" path="SpringBootAssignment 6,7&amp;8/SpringBootMVC/src/test/java"/>
+	<classpathentry kind="src" path="SpringBootAssignment9/.mvn/wrapper"/>
+	<classpathentry kind="src" path="SpringBootAssignment9/src/main/java"/>
+	<classpathentry kind="src" path="SpringBootAssignment9/src/test/java"/>
+	<classpathentry kind="src" path="SpringBootMvc/.mvn/wrapper"/>
+	<classpathentry kind="src" path="SpringBootMvc/src/main/java"/>
+	<classpathentry kind="src" path="SpringBootMvc/src/test/java"/>
+	<classpathentry kind="output" path="SpringBootAssignment 6,7&amp;8/SpringBootMVC/target/classes"/>
+</classpath>
